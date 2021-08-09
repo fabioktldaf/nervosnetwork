@@ -45,4 +45,4 @@
 0x4aba7f5d466db96465297c07c01359fc1faa9ca6e9dddd2fd9e82af38ac2e86c
 
 ## Screenshot smart contract call
-![screenshot smart contract call](./screenshot-smart-contract-call.png)
+![screenshot smart contract call](./screenshot-smart-contract-call-2.png)
