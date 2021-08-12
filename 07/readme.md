@@ -9,3 +9,5 @@
 Transaction hash: 0x30fdf06bf7053e5729e75b29dda443f7d59736e6507786f118db76b534b84053
 
 Deployed contract address: 0x4DDf5079518eEEa9a251c56d48B45061Dad77545
+
+[smart contract ABI](https://raw.githubusercontent.com/fabioktldaf/nervosnetwork/main/07/smart-contract-abi.json)
