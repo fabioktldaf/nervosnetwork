@@ -2,7 +2,12 @@
 
 ## 1. Screenshots or video of your application running on Godwoken.
 
+[application running on Godwoken](https://drive.google.com/file/d/1RKK-3cNVKRTFwtYmdNkToVD_6sdg2DT4/view?usp=sharing)
+  
 ## 2. Link to the GitHub repository with your application which has been ported to Godwoken.
+
+[https://github.com/fabioktldaf/tic-tac-toe/tree/nervos](https://github.com/fabioktldaf/tic-tac-toe/tree/nervos) (branch "nervos")
+
 
 ## 3. If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract.
 
