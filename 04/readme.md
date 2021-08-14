@@ -14,4 +14,4 @@
 ![screenshot deposit on Layer 2](./screenshot-deposit-layer-2-b.png)
 
 ## SUDT ID
-0x029c5af5daf1a835d17d3c1cb6ae3e0bd5c41bb7ba30edafcf90a30ff52a2205
+714
