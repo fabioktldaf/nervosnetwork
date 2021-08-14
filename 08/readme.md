@@ -7,4 +7,4 @@
 0xC9BD07Ecf288b65bFD7bfC2B88a84d5D0CC676b3
 
 ## 3. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
-[repo branch "nervos-bridge"](https://github.com/fabioktldaf/nervosnetwork/tree/main/08)
+__[branch "nervos-bridge"](https://github.com/fabioktldaf/nervosnetwork/tree/main/08)__
